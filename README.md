@@ -6,12 +6,12 @@ This is the repository to generate UAV environment.
 
 - [Example of use](#Example of use)
 
-- Publication
+- [Publications](#Publicaitions)
 
 ## Introduction
 ## Example of use
 
-## Publication
+## Publications
 
 
 The original paper [Autonomous waypoints planning and trajectory generation for multi-rotor UAVs](https://dl.acm.org/doi/abs/10.1145/3313151.3313163)
