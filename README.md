@@ -6,7 +6,7 @@ This is the repository to generate UAV environment.
 
 - [Example of use](#Example-of-use)
 
-- [Publications](#Publicaitions)
+- [Publications](#Publications)
 
 ## Introduction
 
