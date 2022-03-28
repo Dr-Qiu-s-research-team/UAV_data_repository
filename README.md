@@ -9,9 +9,14 @@ This is the repository to generate UAV environment.
 - [Publications](#Publicaitions)
 
 ## Introduction
+
+## Installation
+
 ## Example of use
 
 ## Publications
+
+## License
 
 
 The original paper [Autonomous waypoints planning and trajectory generation for multi-rotor UAVs](https://dl.acm.org/doi/abs/10.1145/3313151.3313163)
