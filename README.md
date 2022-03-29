@@ -14,7 +14,7 @@ This is the repository to generate UAV environment.
 
 ## Examples
 
-Here are some examples of the environments.
+Here are some examples of the environments. Each environment is randomly generated.
 
 - Random
 
@@ -25,6 +25,17 @@ Here are some examples of the environments.
 |-|-|-|
 
 | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/50-1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/50-2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/50-3.png">|
+|-|-|-|
+
+- Three types
+
+| <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/3-1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/3-2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/3-3.png">|
+|-|-|-|
+
+| <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/6-1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/6-2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/6-3.png">|
+|-|-|-|
+
+| <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/9-1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/9-2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/9-3.png">|
 |-|-|-|
 
 ## Example of use
