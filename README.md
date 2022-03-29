@@ -82,6 +82,8 @@ The latest paper implements ADMM method to prune the DRL model and get a much sm
 
 ## License
 
-Suppoted by 
+Suppoted by SRC
+
+![](https://www.srcinc.com/images/logos/logo_src_tagline_white.svg)
 
 
