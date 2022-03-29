@@ -16,10 +16,10 @@ This is the repository to generate UAV environment.
 
 ## Publications
 
-The original paper which proposes a Deep Reinforcement Learning Model to generate a set of obstacle-free waypoints in a known environment.
+The original paper proposes a Deep Reinforcement Learning Model to generate a set of obstacle-free waypoints in a known environment.
 - [Autonomous waypoints planning and trajectory generation for multi-rotor UAVs](https://dl.acm.org/doi/abs/10.1145/3313151.3313163)
 
-The latest paper which implements ADMM method to prune the DRL model and get a much smaller but better performence model.
+The latest paper implements ADMM method to prune the DRL model and get a much smaller but better performence model.
 - [Neural Network Pruning and Fast Training for DRL-based UAV Trajectory Planning](https://ieeexplore.ieee.org/abstract/document/9712561)
 
 ## License
