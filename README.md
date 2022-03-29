@@ -12,6 +12,14 @@ This is the repository to generate UAV environment.
 
 ## Introduction
 
+To repersent a 3D environment, we consider the 3D space as a grid world like the figure shown below.
+
+![](https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/grid_world.png)
+
+We use a 10x10x10 tensor to present a 10x10x10 grid world.
+
+We use different values to indicates the status of each grid and the position of the UAV.
+
 ## Examples
 
 Here are some examples of the environments. Each environment is randomly generated.
