@@ -84,6 +84,6 @@ The latest paper implements ADMM method to prune the DRL model and get a much sm
 
 Suppoted by SRC
 
-![](https://www.src.org/web/img/SRC_logo_blue.png)
+[![](https://www.src.org/web/img/SRC_logo_blue.png)](https://www.src.org/)
 
 
