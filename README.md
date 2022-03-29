@@ -13,7 +13,7 @@ This is the repository to generate UAV environment.
 ## Installation
 
 ## Example of use
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/generator.ipynb)
 
 ## Publications
 
