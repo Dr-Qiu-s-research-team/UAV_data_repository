@@ -12,6 +12,21 @@ This is the repository to generate UAV environment.
 
 ## Introduction
 
+## Examples
+
+Here are some examples of the environments.
+
+- Random
+
+| <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/10-1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/10-2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/10-3.png">|
+|-|-|-|
+
+| <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/30-1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/30-2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/30-3.png">|
+|-|-|-|
+
+| <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/50-1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/50-2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/50-3.png">|
+|-|-|-|
+
 ## Example of use
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/generator.ipynb)
