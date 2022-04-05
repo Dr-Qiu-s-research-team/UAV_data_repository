@@ -80,9 +80,9 @@ The original paper proposes a Deep Reinforcement Learning Model to generate a se
 The latest paper implements ADMM method to prune the DRL model and get a much smaller but better performence model.
 - [Neural Network Pruning and Fast Training for DRL-based UAV Trajectory Planning](https://ieeexplore.ieee.org/abstract/document/9712561)
 
-## License
+## Acknowledgement
 
-Suppoted by SRC
+This project is partially supported by SRC(Semiconductor Research Corporation)
 
 [![](https://www.src.org/web/img/SRC_logo_blue.png)](https://www.src.org/)
 
