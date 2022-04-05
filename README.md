@@ -85,6 +85,10 @@ generate.plot_env()#view the environment
 print(generate.env)#show the tensor
 ```
 
+View the Vicon data from rosbag file
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/read_vicon_rosbag.ipynb)
+
 ## Publications
 
 The original paper proposes a Deep Reinforcement Learning Model to generate a set of obstacle-free waypoints in a known environment.
