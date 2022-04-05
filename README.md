@@ -18,9 +18,22 @@ To repersent a 3D environment, we consider the 3D space as a grid world like the
 
 ![](https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/grid_world.png)
 
-We use a 10x10x10 tensor to present a 10x10x10 grid world.
+We use a 10x10x10 tensor to represent a 10x10x10 grid world.
 
 We use different values to indicates the status of each grid and the position of the UAV.
+
+There are two types of environments.
+
+- Random type
+
+  The obstcals are randomly generated in each grid.
+
+- Three-types type
+
+  Randomly generate the wall shape, door shape and pillar shape obstcals. The obstcals could be rotated by 90°.
+  | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/wall_1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/wall_2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/door_1.png">| <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/door_2.png">| <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/pillar.png">|
+  |-|-|-|-|-|
+  
 
 ## Examples
 
@@ -37,7 +50,7 @@ Here are some examples of the environments. Each environment is randomly generat
 | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/50-1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/50-2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/random/50-3.png">|
 |-|-|-|
 
-- Three types
+- Three-types type
 
 | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/3-1.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/3-2.png"> | <img src="https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/three_types/3-3.png">|
 |-|-|-|
