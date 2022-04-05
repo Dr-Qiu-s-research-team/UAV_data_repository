@@ -71,9 +71,9 @@ There is an example that we have in out lab. The collected vicon data is shown b
 
 ![](https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/uav_path.png)
 
-The video for this flight is shown below.
+![](https://github.com/Dr-Qiu-s-research-team/UAV_data_repository/blob/main/image/uav_path.gif)
 
-[![](https://i9.ytimg.com/vi/41-HpR3NVHY/mq1.jpg?sqp=CLTorpIG&rs=AOn4CLCRqOOkrBbRXq5QtAsnXyCBhkZ4yQ)](https://youtu.be/41-HpR3NVHY)
+The video for this flight in Youtube is [here](https://youtu.be/41-HpR3NVHY).
 
 ## Example of use
 
